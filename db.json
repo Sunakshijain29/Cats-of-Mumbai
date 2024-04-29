@@ -6,7 +6,7 @@
       "Cat_Name": "Chicoo",
       "Characterstics": "Friendly, loves milk",
       "Lattitude": "18.9067",
-      "Longitude": "72.8147",
+      "Longitude": "72.8147"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "Cat_Name": "Chonky",
       "Characterstics": "Fat and lazy, loves sleeping all day",
       "Lattitude": "18.9986",
-      "Longitude": "72.8174",
+      "Longitude": "72.8174"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "Cat_Name": "Crookshanks",
       "Characterstics": "Sleepyhead, doesnt like interactions",
       "Lattitude": "18.9726",
-      "Longitude": "72.8044",
+      "Longitude": "72.8044"
     }
   ]
 }
