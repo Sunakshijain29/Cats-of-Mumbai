@@ -1,0 +1,22 @@
+{
+  "Cats_M": [
+    {
+      "id": 1,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/1.png?v=1713639837283",
+      "Cat_Name": "Chicoo",
+      "Characterstics": "Friendly, loves milk"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/10.png?v=1713639897623",
+      "Cat_Name": "Chonky",
+      "Characterstics": "Fat and lazy, loves sleeping all day"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/14.png?v=1713639915078",
+      "Cat_Name": "Crookshanks",
+      "Characterstics": "Sleepyhead, doesnt like interactions"
+    }
+  ]
+}
