@@ -23,6 +23,110 @@
       "Characterstics": "Sleepyhead, doesnt like interactions",
       "Lattitude": "18.9726",
       "Longitude": "72.8044"
+    },
+        {
+      "id": 4,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/5.png?v=1713639868269",
+      "Cat_Name": "Millie",
+      "Characterstics": "Notorious, loves chasing wool",
+      "Lattitude": "19.0522",
+      "Longitude": "72.9005"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/9.png?v=1713639892352",
+      "Cat_Name": "Remy",
+      "Characterstics": "Clever, Judges human",
+      "Lattitude": "19.2307",
+      "Longitude": "72.8567"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/7.png?v=1713639881448",
+      "Cat_Name": "Larry",
+      "Characterstics": "Hunter, keeps area rat free",
+      "Lattitude": "19.0596",
+      "Longitude": "72.8295"
+    },
+        {
+      "id": 7,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/12.png?v=1713639905955",
+      "Cat_Name": "Whiskers",
+      "Characterstics": "Playful, Wants food all the time",
+      "Lattitude": "18.9256",
+      "Longitude": "72.8242"
+    },
+        {
+      "id": 8,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/11.png?v=1713639900970",
+      "Cat_Name": "Simba",
+      "Characterstics": "Pretends to be dying of hunger",
+      "Lattitude": "19.1136",
+      "Longitude": "72.8697"
+    },
+       {
+      "id": 9,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/3.png?v=1713639855275",
+      "Cat_Name": "Billu",
+      "Characterstics": "Smart cat, has expensive taste",
+      "Lattitude": "18.944",
+      "Longitude": "72.823"
+    },
+        {
+      "id": 10,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/4.png?v=1713639861650",
+      "Cat_Name": "Chotu",
+      "Characterstics": "Your local dealer",
+      "Lattitude": "19.0843",
+      "Longitude": "72.836"
+    },
+        {
+      "id": 11,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/13.png?v=1713639910916",
+      "Cat_Name": "Cleo",
+      "Characterstics": "Beautiful, your local guide",
+      "Lattitude": "19.0688",
+      "Longitude": "72.8703"
+    },
+        {
+      "id": 12,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/8.png?v=1713639887738",
+      "Cat_Name": "Garfield",
+      "Characterstics": "Loves belly rub, prefers chicken over tuna",
+      "Lattitude": "19.0726",
+      "Longitude": "72.8845"
+    },
+        {
+      "id": 13,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/16.png?v=1713639921772",
+      "Cat_Name": "Fred",
+      "Characterstics": "Friendly, Needs friends to play with",
+      "Lattitude": "19.1075",
+      "Longitude": "72.8263"
+    },
+        {
+      "id": 14,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/5.png?v=1713639868269",
+      "Cat_Name": "Mrs. Noris",
+      "Characterstics": "Artist, loves to make mess",
+      "Lattitude": "18.9322",
+      "Longitude": "72.8264"
+    },
+        {
+      "id": 15,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/2.png?v=1713639849174",
+      "Cat_Name": "Sheru",
+      "Characterstics": "Boss Boy, keeps an eye on customers",
+      "Lattitude": "19.0178",
+      "Longitude": "72.8478"
+    },
+        {
+      "id": 16,
+      "imageUrl": "https://cdn.glitch.global/7d511b8e-8200-483c-ba0a-4fb9cbbeeb8a/6.png?v=1713639876151",
+      "Cat_Name": "Billa",
+      "Characterstics": "Judges everyone, but will let you rub belly if you give chicken",
+      "Lattitude": "19.076",
+      "Longitude": "72.8777"
     }
   ]
 }
